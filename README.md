@@ -1,4 +1,4 @@
-# ForexForecasterBellmanFord
+# ForexForecasterOptTrades
 
 The aim of this project is to forecast exchange rates of several currencies using Facebook Prophet and then build a graph using predicted
 exchange rates to find the optimal trades one should make in the future. The nodes of the graph are currencies at different dates and the
